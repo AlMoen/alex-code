@@ -1,0 +1,19 @@
+{
+    "overvaaking_id": "SENTINEL-1793871966",
+    "tidsstempel": "2026-11-05 10:46:06",
+    "status": "ALARM",
+    "system_data": {
+        "cpu": 7.9,
+        "ram": 82.2,
+        "disk": 13.5,
+        "detaljer": {
+            "ram_total_gb": 8.0,
+            "ram_ledig_gb": 1.42,
+            "disk_total_gb": 228.27,
+            "disk_ledig_gb": 82.21
+        }
+    },
+    "alarmer": [
+        "RAM over terskel (82.2% > 70.0%)"
+    ]
+}
